@@ -19,7 +19,7 @@ Após colocar o mesmo para rodar selecione o objeto a ser rastreado, após presc
 
 <h3>Resultado do Rastreador MIL</h3>
 
-
+![MIL](https://github.com/RenanNB360/Rastreamento_de_Objetos/assets/87036785/628f174e-c4bd-4d5a-b708-901f340dc98c)
 
 Para o determinado video analisado, tivemos uma performance ruim pois a pessoa teve um deslocamento brusco no video e 
-como este rastreador não possui uma precisão alta o mesmo não conseguiu efetuar este rastreamento.
+como este rastreador não possui uma precisão alta o mesmo não conseguiu efetuar este processo.
